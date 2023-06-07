@@ -1,12 +1,17 @@
 # Propuesta final
+ 
 
-### ¿Para qué es esta propuesta?
+## ¿Para qué es esta propuesta?
+#### Exponer mi trabajo y habilidades creativas en diseño.
 
 
-| Descripción  | Demografía |  Comportamiento  | Necesidades |
-| ------------- | ------------- |
-| Josefa Carrera  | Content Cell  |
-| Usa mucho RRSS  | Content Cell  |
-| Trabaja en una oficina  | Content Cell  |
-| Energética  | Content Cell  |
-| Trendy  | Content Cell  |
+## ¿Para quiénes es esta propuesta?
+
+Usuario 01: Josefa Carrera (más 
+
+| Descripción | Demográfico | Comportamiento | Necesidades |
+|:------------|:---------|:------------|:---------|
+|Usa RRSS|20-38 años|Investiga sus opciones|Ayuda para materializar sus ideas|
+|Trabaja en oficina|Mujer|Publica muhco contenido por trabajo|Ejecución rápida|
+|Trendy|Universidad UC o UDD|Mantiene una comunicación clara|Crear identidad visual consistente|
+|Energética|Nivel socioeconómico medio-alto|participa en ferias de arte y diseño|Diferentes aplicaciones de marca|
