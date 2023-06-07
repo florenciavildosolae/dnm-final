@@ -1,4 +1,4 @@
-# Propuesta final
+# florenciavildosola.com
 
 ## ¿Para qué es esta propuesta?
 #### Exponer mi trabajo y habilidades creativas en diseño.
@@ -36,3 +36,60 @@
 |Espontánea|Estudió en UC o Finis|Emprendedora|Museografía a bajo costo|
 |Popular|Nivel socioeconómico medio|Participa en colectivos de arte y diseño|Equipo creativo para materilizar propuestas|
 
+
+## ¿Qué existe que es similar a la propuesta? 
+Portafolios de mujeres muy buenas, como por ejemplo:
+
+
+
+**1. Portafolio de [Gracia Fernández](https://gracia.io/proyectos)**
+
+![Yolagracia](https://github.com/florenciavildosolae/dnm-final/assets/80661211/2f38e665-9eb5-4e5e-aab0-75e04392b015)
+
+Diseñadora chilena. Hizo clases en la Universiad Diego Portales junto con Julie Carles en el [Taller de Branding](https://www.instagram.com/tallerbrandingudp/) (muy weno).
+
+| Positivo | Negativo |
+|:------------|:---------|
+|Porpuesta rupturista y auténtica|Se demora mucho en cargar|
+
+
+
+**2. Portafolio de [Tamer Koseli](https://tamerkoseli.com/)**
+
+
+![TamerKoseli](https://github.com/florenciavildosolae/dnm-final/assets/80661211/b555a515-6ae0-4d39-b7f7-3b8a4036a2b5)
+
+Diseñador(a) – no estoy segura – inglés que ha colaborado ilustrando a grandes marcas tales como Air Canada, Condé Nast, National Geographic, Men's Health, Monocle, Nike, Procter & Gamble, WSJ, Square, The New York Times, The North Face, Olympics, entre otras.
+
+
+| Positivo | Negativo |
+|:------------|:---------|
+|Permite apreciar en un buen tamaño los proyectos|No se percibe la identidad del autor/a|
+
+
+
+
+**3. Portafolio de [Sergio Ramírez](http://www.ramirezflores.cl/)**
+
+
+![Sergio](https://github.com/florenciavildosolae/dnm-final/assets/80661211/a9415073-5714-429c-bbb6-703c9cb9ce70)
+
+
+Diseñador y profesor en Pontificia Universidad Católica de Chile. Es parte del equipo DET (Departamento de Estudios Tipográficos UC), junto a quienes ha desarrollado importantes proyectos para la identidad visual nacional.
+
+| Positivo | Negativo |
+|:------------|:---------|
+|Simpleza y claridad visual|Jerarquía visual estática|
+
+
+
+**4. Portafolio de [Jenny Abud](https://www.jennyabud.cl/proyectos/)**
+
+
+![Jenny](https://github.com/florenciavildosolae/dnm-final/assets/80661211/5f99fc3c-1ca8-48df-ade3-d15a6a83c132)
+
+Jenny Abud es Diseñadora en Comunicación Visual, licenciada de la Universidad Tecnológica Metropolitana. Magíster en Edición en la Universidad Diego Portales. En 2006 y 2018 obtiene el Premio Nacional al Diseño y la Ilustración Editorial. En 2019, fundó la editorial Ediciones Fulgor que hace enfasis en el rescate del patrimonio nacional.
+
+| Positivo | Negativo |
+|:------------|:---------|
+|Simpleza y claridad visual|Jerarquía visual estática|
