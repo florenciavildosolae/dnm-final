@@ -107,3 +107,17 @@ Diseñadora chilena y directora creativa, que actualmente reside en Inglaterra y
 |:------------|:---------|
 |Estructura visual creativa y autentica|Simplemente es perfecto|
 
+
+
+**5. Portafolio de [Adam Heyes](https://mrahayes.com/typography)**
+
+
+![AdamHeyes](https://github.com/florenciavildosolae/dnm-final/assets/80661211/41eb1ad3-3597-4401-b3db-a6156ecea632)
+
+
+Ilustrador y tipógrafo, realiza ilustraciones editoriales y estudio en Royal College of Art. Ha trabajado para diferentes tipos de clientes tales como Apple, Google, Honda, Ikea, Shake Shack y Whole Food.
+
+| Positivo | Negativo |
+|:------------|:---------|
+|Look and feel de hecho a mano, muy autentico|No me gusta la tipografía que usa para el texto|
+
