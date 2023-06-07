@@ -92,4 +92,18 @@ Jenny Abud es Diseñadora en Comunicación Visual, licenciada de la Universidad 
 
 | Positivo | Negativo |
 |:------------|:---------|
-|Simpleza y claridad visual|Jerarquía visual estática|
+|Variedad de categorías de información|Estructura muy tradicional|
+
+
+
+
+**5. Portafolio de [Constanza Gaggero](https://www.gaggeroworks.co.uk/)**
+
+![Gaggero](https://github.com/florenciavildosolae/dnm-final/assets/80661211/a7527fee-e55e-433b-9064-67dddd845ffb)
+
+Diseñadora chilena y directora creativa, que actualmente reside en Inglaterra y hace consultorías de diseño. Tiene un postgrado en Museum Cultures from University of London and lectures regularly.
+
+| Positivo | Negativo |
+|:------------|:---------|
+|Estructura visual creativa y autentica|Simplemente es perfecto|
+
