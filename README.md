@@ -121,3 +121,9 @@ Ilustrador y tipógrafo, realiza ilustraciones editoriales y estudio en Royal Co
 |:------------|:---------|
 |Look and feel de hecho a mano, muy autentico|No me gusta la tipografía que usa para el texto|
 
+
+
+
+## ¿Qué existe que puede inspirar la propuesta? Referentes
+![Moodboard](https://github.com/florenciavildosolae/dnm-final/assets/80661211/53bd26e8-3861-4a3f-822f-ebe687241882)
+
