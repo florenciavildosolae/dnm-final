@@ -125,5 +125,6 @@ Ilustrador y tipógrafo, realiza ilustraciones editoriales y estudio en Royal Co
 
 
 ## ¿Qué existe que puede inspirar la propuesta? Referentes
-![Moodboard](https://github.com/florenciavildosolae/dnm-final/assets/80661211/53bd26e8-3861-4a3f-822f-ebe687241882)
+![Moodboard-2](https://github.com/florenciavildosolae/dnm-final/assets/80661211/1be3600e-02c7-4e24-b320-81ea27d12f3e)
+
 
